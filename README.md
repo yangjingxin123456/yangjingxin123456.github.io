@@ -1,14 +1,14 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+一个学术网站的 Github Pages 模板。 这是由 [Stuart Geiger](https://github.com/staeiou) 从 [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) 分叉（然后分离），这是 ©2016 Michael Rose 在 MIT 许可下发布。参见 LICENSE.md。
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+我想我已经顺利运行并修复了一些主要错误，但是如果您想改进通用模板/主题，请随时提交问题或提出拉取请求。
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+### 注意：如果您正在使用这个 repo 并且现在收到有关安全漏洞的通知，请删除 Gemfile.lock 文件。
 
-# Instructions
+# 介绍
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+1. 如果您没有，请注册一个 GitHub 帐户并确认您的电子邮件（必需！）
+1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by 单击右上角的“fork”按钮. 
+1. 转到存储库的设置（以“Code”开头的选项卡中最右侧的项目应位于“unwatch”下方）. Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
