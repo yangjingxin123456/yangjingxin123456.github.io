@@ -8,4 +8,8 @@ tags:
   - category2
 ---
 
+
+
 This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+
+默认情况下会显示此帖子。 要禁用未来帖子的调度，请编辑 `config.yml` 并设置 `future: false`。
