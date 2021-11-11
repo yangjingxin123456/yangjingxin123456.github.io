@@ -10,7 +10,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "周律邦 / 学术主页"
+title                    : "周律邦 / academic page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -83,8 +83,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "Q1.jpg"
+  name             : "个人信息"
+  avatar           : "academic.png"
   bio              : "清醒的在这个世界混时度日"
   location         : "湖南·长沙"
   employer         : "HuNan University of Chinese Medicine"
@@ -99,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/zhoulvbang/"
   google_plus      :
   keybase          :
   instagram        :
@@ -112,7 +112,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/Simon_Zhouyu"
   vine             :
   weibo            :
   xing             :
