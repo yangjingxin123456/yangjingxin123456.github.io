@@ -61,12 +61,10 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
-zhihu:
-  username               : &zhihu
-#facebook:
-#  username               :
-#  app_id                 :
-#  publisher              :
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -90,8 +88,9 @@ author:
   bio              : "清醒的在这个世界混时度日"
   location         : "湖南·长沙"
   employer         : "HuNan University of Chinese Medicine"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  zhihu            : "https://www.zhihu.com/people/zhoulvbang"
   email            : "zhoulvbang@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -101,7 +100,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "/zhoulvbang/"
+  github           : ""
   google_plus      :
   keybase          :
   instagram        :
@@ -117,7 +116,7 @@ author:
   twitter          : "https://twitter.com/"
   vine             :
   weibo            :
-  zhihu            : "https://www.zhihu.com/people/zhoulvbang"
+  #zhihu            : "https://www.zhihu.com/people/zhoulvbang"
   youtube          :
   wikipedia        :
 
