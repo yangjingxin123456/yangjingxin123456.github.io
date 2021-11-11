@@ -8,24 +8,24 @@
 
 1. 如果您没有，请注册一个 GitHub 帐户并确认您的电子邮件（必需！）
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by 单击右上角的“fork”按钮. 
-1. 转到存储库的设置（以“Code”开头的选项卡中最右侧的项目应位于“unwatch”下方）. Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+1. 转到存储库的设置（以“Code”开头的选项卡中最右侧的项目应位于“unwatch”下方）. Rename the repository "[your GitHub username].github.io", 这也将是您网站的网址（URL）.
+1. 设置站点范围的配置并创建内容和元数据 (see below -- also see [this set of diffs](http://archive.is/3TPas) 显示更改设置的文件 [an example site](https://getorg-testacct.github.io) 对于具有用户名的用户 "getorg-testacct")
+1. 上传任何文件 (like PDFs, .zip files, etc.) to the files/ directory. 他们将出现在 https://[your GitHub username].github.io/files/example.pdf.  
+1. 通过转到存储库设置检查状态, in the "GitHub pages" section
+1. (Optional) 在 `markdown_generator` folder 中使用 Jupyter notebooks 或 python 脚本 从 TSV 文件生成出版物和谈话的 Markdown 文件.
 
-See more info at https://academicpages.github.io/
+在 https://academicpages.github.io/ 查看更多信息
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+## 在本地运行（不在 GitHub Pages 上，在您自己的计算机上运行）
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
+1. 克隆存储库并按照上面的详细说明进行更新
+1. 确保你已经安装了 ruby​​-dev、bundler 和 nodejs: `sudo apt install ruby-dev ruby-bundler nodejs`
 1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+1. Run `bundle install` to install ruby dependencies. 如果出现错误，请删除 Gemfile.lock 并重试。
+1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` 本地服务器将在更改时自动重建和刷新页面.
 
-# Changelog -- bugfixes and enhancements
+# 变更日志——错误修正和增强
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+像学术页面这样的现成模板主题存在一个逻辑问题，这使得修复错误和更新核心主题变得有点棘手。 如果你 fork 这个存储库，定制它，然后再次拉取，你可能会遇到合并冲突。 如果你想保存你的各种 .yml 配置文件和 markdown 文件，你可以删除存储库并再次 fork 它。 或者您可以手动修补。
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+为了支持这一模板，对底层代码的所有更改都显示为标签的已解决问题 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). 每个问题线程都包含一个链接到单个提交或跨多个提交的差异的注释，因此那些拥有分叉存储库的人可以轻松识别他们需要修补的内容。
