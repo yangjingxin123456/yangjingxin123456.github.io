@@ -1,13 +1,16 @@
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
+#此配置文件用于影响整个站点的设置、值
 # which you are expected to set up once and rarely need to edit after that.
+#您应该设置一次，之后很少需要编辑。
 # For technical reasons, this file is *NOT* reloaded automatically when you use
+#出于技术原因，此文件*NOT*在您使用时自动重新加载
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "周律邦 / 学术主页"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
