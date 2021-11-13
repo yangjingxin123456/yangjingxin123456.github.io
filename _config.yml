@@ -14,7 +14,7 @@ title                    : "周律邦 / academic page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhoulvbang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhoulvbang/zhoulvbang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "个人信息"
-  avatar           : "academic200k.png"
+  avatar           : "academic50k.png"
   bio              : "清醒的在这个世界混时度日"
   location         : "湖南·长沙"
   employer         : "HuNan University of Chinese Medicine"
