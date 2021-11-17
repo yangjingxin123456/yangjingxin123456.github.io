@@ -14,20 +14,14 @@ Education
 * 公共事业管理, 湖南中医药大学 2019-2023
   * GPA：3.69/5
   * 专业排名：15%
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
-* Summer 2021: Research Assistant
+* 暂无
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
@@ -60,6 +54,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-服务与领导
+Leadership and Service
 ======
-* 2021年湖南省大学生创新创业省级项目主持人
+* 2021年湖南省大学生创新创业训练计划省级项目主持人
