@@ -1,4 +1,23 @@
-﻿ **1. 前言**
+---
+title: 'LaTeX：基于Windows10的LaTeX套装详细安装教程'
+date: 2021-11-17
+permalink: /posts/2021/11/LaTeX：基于Windows10的LaTeX套装详细安装教程/
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
+Headings are cool
+======
+
+You can have many headings
+======
+
+Aren't headings cool?
+------
+ 
+ **1. 前言**
 
 此文写于小美赛（APMCM）前几天，今天latexstudio发布了APMCM的LaTeX写作模板，模板要求使用TeXLive2020进行编译，这让我想继续使用TeXLive2019继续混的想法破灭。
 
