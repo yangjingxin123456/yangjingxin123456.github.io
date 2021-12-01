@@ -89,11 +89,11 @@ author:
   location         : "湖南·长沙"
   employer         : "湖南中医药大学"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   zhihu            : "people/zhoulvbang"
   email            : "zhoulvbang@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :  lazyzhou.cn
+  uri              :  
   bitbucket        :
   codepen          :
   dribbble         :
