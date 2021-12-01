@@ -40,4 +40,7 @@
 
 如何修改网页说明语：进入_pages文件，点击[abou.md](https://github.com/zhoulvbang/zhoulvbang.github.io/blob/master/_pages/about.md)文件进行修改。
 
+# 配置私有域名
+由于网络问题，大陆地区一般是不可以访问[GitHub](https://github.com/)，为了让自己的主页/网站可以被访问，我们可以配置一个私有域名，域名可以自行前去[腾讯云](https://console.cloud.tencent.com/)和[阿里云](https://cn.aliyun.com/)购买，购买之后等待其确认，然后解析这个域名，将上述域名(及www域名)解析到[yourname].github.io的IP地址，主机地址是GitHub的主机地址，一般有两个，分别是 `192.30.252.153`、`192.30.252.154`，将其解析好后，转到GitHub界面，直接在`github.io`仓库的`Settings`的`GitHub Pages`项直接设置`Custom domain`，GitHub会自动添加`CNAME`文件，你可以选择在`Custom domain`中直接输入你的域名`www.xxx.cn`或者在`CNAME`文件中进行修改，将你的域名输入，保存。然后刷新~
+
 # 其他的可以自己去探索一下，不妨给个关注与点个星星
