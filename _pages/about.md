@@ -43,6 +43,10 @@ For site content, there is one markdown file for each type of content, which are
 
 对于站点内容，每种类型的内容都有一个 Markdown 文件，这些文件存储在 _publications、_talks、_posts、_teaching 或 _pages 等目录中。例如，每个talk都是[_talks directory](https://github.com/zhoulvbang/zhoulvbang.github.io/tree/master/_talks)中的一个markdown文件。在每个 Markdown 文件的顶部是 YAML 中关于谈话的结构化数据，主题将解析这些数据以做很多很酷的事情。在[Talks page](https://zhoulvbang.github.io/talks)上，使用相同的结构化数据生成演讲列表，每个[individual page](https://zhoulvbang.github.io /talks/2012-03-01-talk-1) 用于具体的谈话，[简历页面](https://zhoulvbang.github.io/cv) 的谈话部分，以及[map of places you've given a talk](https://zhoulvbang.github.io/talkmap.html)（如果你运行这个 [python file](https://github.com/zhoulvbang/zhoulvbang.github.io/blob/master/talkmap. py) 或 [Jupyter notebook](https://github.com/zhoulvbang/zhoulvbang.github.io/blob/master/talkmap.ipynb)，它根据 _talks 目录的内容为地图创建 HTML）。
 
+配置私有域名
+------
+由于网络问题，大陆地区一般是难以访问[GitHub](https://github.com/)，为了让自己的主页/网站可以被访问，我们可以配置一个私有域名，域名可以自行前去[腾讯云](https://console.cloud.tencent.com/)和[阿里云](https://cn.aliyun.com/)购买，购买之后等待其确认，然后解析这个域名，将上述域名(及www域名)解析到[yourname].github.io的IP地址，主机地址是GitHub的主机地址，一般有两个，分别是 `192.30.252.153`、`192.30.252.154`，将其解析好后，转到GitHub界面，直接在`github.io`仓库的`Settings`的`GitHub Pages`项直接设置`Custom domain`，GitHub会自动添加`CNAME`文件，你可以选择在`Custom domain`中直接输入你的域名`www.xxx.cn`或者在`CNAME`文件中进行修改，将你的域名输入，保存。然后刷新~
+
 **Markdown generator**
 
 I have also created [a set of Jupyter notebooks](https://github.com/zhoulvbang/zhoulvbang.github.io/tree/master/markdown_generator
