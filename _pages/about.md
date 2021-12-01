@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "欢迎来到超级懒的小周的自留地"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
