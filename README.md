@@ -38,4 +38,6 @@
 # 修改_pages
 进入[pages](https://github.com/zhoulvbang/zhoulvbang.github.io/tree/master/_pages)，这个文件下有很多.md和.html文档，编辑404.md你可以制作一个个性化的404页面，其他也是如此。
 
+如何修改网页说明语：进入_pages文件，点击[abou.md](https://github.com/zhoulvbang/zhoulvbang.github.io/blob/master/_pages/about.md)文件进行修改。
+
 # 其他的可以自己去探索一下，不妨给个关注与点个星星
