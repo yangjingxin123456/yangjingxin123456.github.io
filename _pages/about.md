@@ -51,7 +51,9 @@ Create content & metadata：创建内容和元数据
 ![](https://github.com/zhoulvbang/zhoulvbang.github.io/blob/master/images/choose.png)
 
 将其解析好后，转到GitHub界面，直接在`github.io`仓库的`Settings`的`GitHub Pages`项直接设置`Custom domain`.
+
 ![](https://github.com/zhoulvbang/zhoulvbang.github.io/blob/master/images/Custom-domain.png)
+
 GitHub会自动添加`CNAME`文件，你可以选择在`Custom domain`中直接输入你的域名`www.xxx.cn`或者在`CNAME`文件中进行修改，将你的域名输入，保存。然后刷新~
 
 **Markdown generator**
