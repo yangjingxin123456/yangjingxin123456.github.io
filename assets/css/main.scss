@@ -10,7 +10,6 @@
  *
 */
 
-@import "minimal-mistakes/skins/default"; // skinminimal-mistakes
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -40,3 +39,6 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+@import "minimal-mistakes/skins/default"; // skinminimal-mistakes
+
