@@ -57,7 +57,7 @@ Create content & metadata：创建内容和元数据
 GitHub会自动添加`CNAME`文件，你可以选择在`Custom domain`中直接输入你的域名`www.xxx.cn`或者在`CNAME`文件中进行修改，将你的域名输入，保存。然后刷新~
 
 关于知乎上的问题
-----
+-----
 对学术主页的兴趣是来自一个好朋友，他是学计算机的，但是现在已经硕士毕业进了银行，果真内卷尽头是公务员/国企。自己从20年开始摸索，以前是用的[Gridea](https://github.com/getgridea/gridea)，这个也还算不错，知乎有一篇介绍[Gridea 一个小而美的静态博客写作客户端](https://zhuanlan.zhihu.com/p/64034679)，这个用过一段时间后就逐渐放弃了，有以下原因：
  - 同步困难
  - 主题更换麻烦
@@ -92,7 +92,6 @@ GitHub会自动添加`CNAME`文件，你可以选择在`Custom domain`中直接�
 
 How to edit your site's GitHub repository：如何编辑站点的 GitHub 存储库
 ------
-
 许多人使用 git 客户端在他们的本地计算机上创建文件，然后将它们推送到 GitHub 的服务器。 如果你对git不熟悉，可以直接在github.com界面直接编辑这些配置和markdown文件。 导航到一个文件:如 [this one](https://github.com/zhoulvbang/zhoulvbang.github.io/blob/master/_talks/2012-03-01-talk-1.md)并单击铅笔图标 在内容预览的右上角("Raw  Blame  History"按钮右侧)。您可以通过单击铅笔图标右侧的垃圾桶图标来删除文件。您也可以创建新文件或上传 通过导航到目录并单击“创建新文件”或“上传文件”按钮来创建文件。
 
 Example: editing a markdown file for a talk:示例：为演讲编辑 Markdown 文件
