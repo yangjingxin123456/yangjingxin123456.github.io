@@ -10,7 +10,7 @@ redirect_from:
 
 这是由 [academicpages template](https://github.com/academicpages/academicpages.github.io) 提供支持并托管在 GitHub 页面上的网站的首页。 [GitHub pages](https://pages.github.com) 是一项免费服务，在该服务中，网站是根据存储在 GitHub 存储库中的代码和数据构建和托管的，当对存储库进行新提交时会自动更新。这个模板是从 Michael Rose 创建的 [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) 衍生出来的，然后扩展到支持学术界拥有的各种内容：出版物、演讲、教学、作品集、博客文章和动态生成的简历。现在就可以fork [this repository](https://github.com/zhoulvbang/zhoulvbang.github.io)，修改配置和markdown文件，添加自己的PDF等内容，免费拥有自己的站点，没有广告！这个模板的旧版本支持我自己的个人网站 [stuartgeiger.com](http://stuartgeiger.com)，它使用 [this Github repository](https://github.com/staeiou/staeiou.github.io )
 
-![初步的学术主页页面](https://github.com/zhoulvbang/zhoulvbang.github.io/blob/master/images/firstpage.png)
+![初步的学术主页页面](https://github.com/zhoulvbang/zhoulvbang.github.io/blob/master/images/firstpage50k.png)
 
 A data-driven personal website：一个数据驱动的个人网站
 ======
@@ -43,18 +43,47 @@ Create content & metadata：创建内容和元数据
 ------
 由于网络问题，大陆地区一般是难以访问[GitHub](https://github.com/)，为了让自己的主页/网站可以被访问，我们可以配置一个私有域名，域名可以自行前去[腾讯云](https://console.cloud.tencent.com/)和[阿里云](https://cn.aliyun.com/)购买。
 
-![腾讯云挑选域名](https://github.com/zhoulvbang/zhoulvbang.github.io/blob/master/images/Tencentyuming.png)
-![](https://github.com/zhoulvbang/zhoulvbang.github.io/blob/master/images/quick.png)
+![腾讯云挑选域名](https://github.com/zhoulvbang/zhoulvbang.github.io/blob/master/images/Tencentyuming50k.png)
+![快速添加解析](https://github.com/zhoulvbang/zhoulvbang.github.io/blob/master/images/quick50k.png)
 
 购买之后等待其确认，然后解析这个域名，将上述域名(及www域名)解析到[yourname].github.io的IP地址，主机地址是GitHub的主机地址，一般有两个，分别是 `192.30.252.153`、`192.30.252.154`.
 
-![](https://github.com/zhoulvbang/zhoulvbang.github.io/blob/master/images/choose.png)
+![选择GitHub的主机](https://github.com/zhoulvbang/zhoulvbang.github.io/blob/master/images/choose47k.png)
 
 将其解析好后，转到GitHub界面，直接在`github.io`仓库的`Settings`的`GitHub Pages`项直接设置`Custom domain`.
 
-![](https://github.com/zhoulvbang/zhoulvbang.github.io/blob/master/images/Custom-domain.png)
+![对GitHub进行配置](https://github.com/zhoulvbang/zhoulvbang.github.io/blob/master/images/Custom-domain50k.png)
 
 GitHub会自动添加`CNAME`文件，你可以选择在`Custom domain`中直接输入你的域名`www.xxx.cn`或者在`CNAME`文件中进行修改，将你的域名输入，保存。然后刷新~
+
+关于知乎上的问题
+----
+对学术主页的兴趣是来自一个好朋友，他是学计算机的，但是现在已经硕士毕业进了银行，果真内卷尽头是公务员/国企。自己从20年开始摸索，以前是用的[Gridea](https://github.com/getgridea/gridea)，这个也还算不错，知乎有一篇介绍[Gridea 一个小而美的静态博客写作客户端](https://zhuanlan.zhihu.com/p/64034679)，这个用过一段时间后就逐渐放弃了，有以下原因：
+ - 同步困难
+ - 主题更换麻烦
+ - 停止更新（停止维护？）
+ - 功能简单
+
+随着今年六月份租用的域名到期，就再没弄过这个了。现在弄得这个是知乎发现的[如何制作个人学术主页？](https://www.zhihu.com/question/281476526)
+
+这个问题下面提了如下几个小要求：
+
+- 首先不被qiang，在国内可以无障碍地访问；
+- 可以被各大搜索引擎检索；
+- 管理便捷：可以方便的添加论文，项目页等；
+- 轻量级最好；
+- 简洁大方；
+
+我个项目可以做到的：
+
+- 购买国内域名后可以不被墙，备案后就是“安全”网站了；
+- 可以被各大搜索引擎检索，前提是你要去各个引擎申请；
+- 管理便捷的话，你对GitHub熟悉应该就没啥问题
+- 网页应该算是轻量级
+- 简洁大方也做得到
+- 功能也挺多，包含：Publications、Talks、Teaching、Portfolio、Blog Posts、CV、Guide，如果需要甚至可以自己再设计一个
+- 友链众多，可以分享（Facebook、Twitter and so on）
+- 有专门的configuration网站，[Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)，你可以在规则之下，更改配置让网页成为你想要的模样
 
 **Markdown generator**
 
