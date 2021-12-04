@@ -57,7 +57,7 @@ Create content & metadata：创建内容和元数据
 GitHub会自动添加`CNAME`文件，你可以选择在`Custom domain`中直接输入你的域名`www.xxx.cn`或者在`CNAME`文件中进行修改，将你的域名输入，保存。然后刷新~
 
 关于知乎上的问题
------
+------
 对学术主页的兴趣是来自一个好朋友，他是学计算机的，但是现在已经硕士毕业进了银行，果真内卷尽头是公务员/国企。自己从20年开始摸索，以前是用的[Gridea](https://github.com/getgridea/gridea)，这个也还算不错，知乎有一篇介绍[Gridea 一个小而美的静态博客写作客户端](https://zhuanlan.zhihu.com/p/64034679)，这个用过一段时间后就逐渐放弃了，有以下原因：
  - 同步困难
  - 主题更换麻烦
