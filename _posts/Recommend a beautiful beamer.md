@@ -28,4 +28,4 @@ Metropolis的源文件也在GitHub之中，位置为[https://github.com/matze/mt
 本仓库也保存了一份[该文件](https://github.com/zhoulvbang/zhoulvbang.github.io/blob/master/files/Metropolis%20Beamer%20Theme.zip)，
 同时也放置了[我修改后的文件](https://github.com/zhoulvbang/zhoulvbang.github.io/blob/master/files/Metropolis%20Beamer%20Theme%202.0.zip)。
 
-配置域名后，可以使用'https://lazyzhou.cn/blob/master/files/Metropolis%20Beamer%20Theme%202.0.zip' 来进行访问。
+配置域名后，可以使用'www.lazyzhou.cn/blob/master/files/Metropolis%20Beamer%20Theme%202.0.zip' 来进行访问。
