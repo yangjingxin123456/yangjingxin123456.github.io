@@ -10,7 +10,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "金小龙 / Academics Page"
+title                    : "Xiaolong Jin"
 title_separator          : "-"
 name                     : &name "Xiaolong Jin"
 description              : &description "personal description"
@@ -83,15 +83,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "个人信息"
+  name             : "Xiaolong Jin"
   avatar           : "academic50k.png"
   bio              : "清醒的在这个世界混时度日"
-  location         : "湖南·长沙"
-  employer         : "湖南中医药大学"
+  location         : "Hefei, China"
+  employer         : "USTC"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  zhihu            : "people/zhoulvbang"
-  email            : "zhoulvbang@163.com"
+  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  zhihu            : "https://www.zhihu.com/people/jinxiaolong-91"
+  email            : "jinxiaolong1129@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  
   bitbucket        :
@@ -100,7 +100,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhoulvbang"
+  github           : "Jinxiaolong1129"
   google_plus      :
   keybase          :
   instagram        :
@@ -113,7 +113,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : "https://twitter.com/JxlDragon"
   vine             :
   weibo            :
   youtube          :
