@@ -10,13 +10,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "周律邦 / Academics Page"
+title                    : "金小龙 / Academics Page"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Xiaolong Jin"
 description              : &description "personal description"
-url                      : https://zhoulvbang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jinxiaolong1129.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhoulvbang/zhoulvbang.github.io"
+repository               : "Jinxiaolong1129/Jinxiaolong1129.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
