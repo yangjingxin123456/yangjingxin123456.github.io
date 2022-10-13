@@ -83,14 +83,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaolong Jin"
+  name             : "Xiaolong Jin 金小龙"
   avatar           : "academic50k.png"
-  bio              : "清醒的在这个世界混时度日"
+  bio              : "Be Positive!"
   location         : "Hefei, China"
   employer         : "USTC"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  zhihu            : "https://www.zhihu.com/people/jinxiaolong-91"
+  # zhihu            : "https://www.zhihu.com/people/jinxiaolong-91"
   email            : "jinxiaolong1129@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  
@@ -107,13 +107,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/JxlDragon"
+  twitter          : "JxlDragon"
   vine             :
   weibo            :
   youtube          :
