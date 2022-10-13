@@ -40,7 +40,7 @@ Activities
 * TA in *Mathematical Analysis B*, 2021 Fall
 * Editor of the Wechat account of School of Gifted Young, USTC
 * Member of School of Gifted Young Student Union
-* Attendees of ACM TURC 2021, Hefei, China
+* Attendee of ACM TURC 2021, Hefei, China
 
 
 <script>
