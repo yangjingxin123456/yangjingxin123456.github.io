@@ -8,7 +8,7 @@ author_profile: true
 
 # Research interets
 
-1. Federal learning:
+1. Federal learning
    - graph mining
    - differntial privacy
 2. Adversarial Robustness
