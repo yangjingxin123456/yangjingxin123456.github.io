@@ -21,7 +21,6 @@ I am **Xiaolong Jin (金小龙)**, a fourth-year undergraduate student at the [S
 
 My primary research interests are adversarial robustness, graph mining, federated learning, differntial privacy and their intersections.
 
-During the 2021 Fall semester, I served as a teaching assitant in *Mathematical Analysis B*.
 
 Education
 ===
@@ -33,18 +32,15 @@ Honors and Awards
 * Outstanding Freshman Scholarship    **Top 5%**     2019
 * Outstanding Undergraduate Scholarship, Gold award    **Top 3%**     2020 
 * Outstanding Undergraduate Scholarship, Bronze award  **Top 10%**     2022, 2021 
-* National Grants     Top 5%   2022, 2021, 2019
+* National Grants     **Top 5%**   2022, 2021, 2019
 
 
 Activities
 ===
-
-* Sept. 2019 --- June 2020: group leader, "Science and Society" Freshman Seminar, supervisor: Prof. [Jinjin ZHENG](http://staff.ustc.edu.cn/~jjzheng/)
-* Sept. 2019 --- June 2023: member, USTC cycling team
-* Mar. 2022 --- June 2022: participant and talker, analysis and PDE seminar for the S.-T. Yau College Student Mathematics Contest, supervisor: Prof. [Hao YIN](http://staff.ustc.edu.cn/~haoyin/)
-* Mar. 2022 --- June 2023: monitor, class 3 for math-majored students of grade 2019 at the School of the Gifted Young
-* June 2022: rewarded problem solver, Vol. 64, Warming (an in-school math magazine held by USTC Math Department)
-
+* TA in *Mathematical Analysis B*, 2021 Fall
+* Editor of the Wechat account of School of Gifted Young, USTC
+* Member of School of Gifted Young Student Union
+* Attendees of ACM TURC 2021, Hefei, China
 
 
 <script>
