@@ -17,26 +17,23 @@ Current
 Short Bio
 ===
 
-I am **Xiaolong Jin (金小龙)**, a fourth-year undergraduate student at the [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/), majoring in Statistics. I grew up in [Lanzhou](https://en.wikipedia.org/wiki/Lanzhou), Gansu in western China.
+I am **Xiaolong Jin (金小龙)**, a fourth-year undergraduate student at the [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/), majoring in Statistics. 
 
 My primary research interests are adversarial robustness, graph mining, federated learning, differntial privacy and their intersections.
-
-I joined the research group lead by Prof. [Mengping ZHANG](https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=860) and Prof. [Yan JIANG](http://staff.ustc.edu.cn/~jiangy/index.html) in 2021 and conducted my *Undergraduate Research Program*. In the summer of 2022, I worked on a small project under the supervision of Prof. [Xiangxiong ZHANG](https://www.math.purdue.edu/~zhan1966/index.html).
 
 During the 2021 Fall semester, I served as a teaching assitant in *Mathematical Analysis B*.
 
 Education
 ===
-
 * Sept. 2019 --- June 2023: B.Sc. in Mathematical Analysis, School of the Gifted Young, University of Science and Technology of China (expected)
 * Sept. 2016 --- June 2019: The High School Attached to Northwest Normal University
 
 Honors and Awards
 ===
-1. Outstanding Freshman Scholarship    Top 5%     2019
-2. Outstanding Undergraduate Scholarship, Gold award    Top 3%     2020 
-3. Outstanding Undergraduate Scholarship, Bronze award  Top 10%     2022, 2021 
-4. National Grants     Top 5%   2022, 2021, 2019
+* Outstanding Freshman Scholarship    **Top 5%**     2019
+* Outstanding Undergraduate Scholarship, Gold award    **Top 3%**     2020 
+* Outstanding Undergraduate Scholarship, Bronze award  **Top 10%**     2022, 2021 
+* National Grants     Top 5%   2022, 2021, 2019
 
 
 Activities

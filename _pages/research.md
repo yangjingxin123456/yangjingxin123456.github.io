@@ -8,28 +8,23 @@ author_profile: true
 
 # Research interets
 
-1. High-order numerical methods for PDEs:
-   - Finite element methods 
-   - Discontinuous Galerkin methods
-   - Finite difference/volume WENO methods
-   - Spectral methods
-2. Scientific computing:
-   - Parallel implementation of numerical solvers
+1. Federal learning:
+   - graph mining
+   - differntial privacy
+2. Adversarial Robustness
 
 ---
 
-
 # Projects
 
-## 1. Numerical simulation of plasma equilibrium evolution in nuclear fusion
+## 1. Interpretable adversarial attacks with causal disentangled representations
 
-*Undergraduate Research Program at USTC*
+*Summer Research Program at HKUST*
 
-Supervisor: Prof. [Mengping ZHANG](https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=860)
+Supervisor: Prof. [Tong Zhang](https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=860)
 
-July 2021 --- May 2022, USTC
+June 2022 --- Aug. 2022, HKUST
 
-The controlled nuclear fusion is one of the most prospective solution to the energy crisis and environmental problems. The tokamak has been widely investigated as the most feasible magnetically confined fusion device. Tearing mode instabilities have great influence on the fusion reaction thus worth stuying.
 
-In this research, in order to simulate the evolution process of tokamak plasma instability numerically, we reviewed different formulations of the MHD equations, selected a suitable type of nonconservative resistive MHD, and developed a parallel solver using hybrid finite difference-Fourier pseudo spectral method in cylindrical coordinates. Using our solver, we simulated the $(m,n)=(2,1)$ resistive tearing mode instability, and checked the results against those obtained from the CLT and M3D-C1 code with researchers from Institute of Plasma Physics, Chinese Academy of Science. Our solver exhibits satisfactory performance in conserving numerical divergence of the magnetic field, fitting the theoretical relation between logrithmic growth rate of kinetic energy and resistivity, revealing the tearing mode structure independent of initial peturbation at the linear stage, and reaching the final saturation stage.
+In this research, we explore the relationship between causal disentanglement and adversarial attack. We propose a prospective method to detect adversarial examples by causal disentanglement and provide a direct interpretation for the adversarial noise from causal perspectives.
 

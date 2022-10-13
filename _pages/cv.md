@@ -3,8 +3,6 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 My CV is also available to download [here](../files/CV_XiaolongJin_final.pdf){:target="_blank"}.
