@@ -10,13 +10,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaolong Jin"
+title                    : "Jingxin Yang"
 title_separator          : "-"
-name                     : &name "Xiaolong Jin"
+name                     : &name "Jingxin Yang"
 description              : &description "personal description"
-url                      : https://jinxiaolong1129.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yangjingxin123456.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Jinxiaolong1129/Jinxiaolong1129.github.io"
+repository               : "yangjingxin123456/yangjingxin123456.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,15 +83,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaolong Jin"
+  name             : "Jingxin Yang"
   avatar           : "academic50k.png"
   bio              : "Be Positive!"
-  location         : "Hefei, China"
-  employer         : "USTC"
+  location         : "Guangzhou, China"
+  employer         : "SCAU"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.com/citations?hl=zh-CN&user=jNGz9ccAAAAJ&view_op=list_works&gmla=AMpAcmRQpKPNvo-oWX7rLtx1qwh8aaVOVXm8VDRFJgOLXd3Ik03wf5MQoe6UfsysisSQ8A0xD1qhHS1SKK6nTh9_Qk379jKLHbGIb4Apl4kFEXGtN-Tm_PBB-sdSqYNB8mvzhsOssw
   # zhihu            : "https://www.zhihu.com/people/jinxiaolong-91"
-  email            : "jinxiaolong1129@gmail.com"
+  email            : "jingxinyang0114@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  
   bitbucket        :
@@ -100,7 +100,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Jinxiaolong1129"
+  github           : "yangjingxin123456"
   google_plus      :
   keybase          :
   instagram        :
@@ -113,7 +113,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "JxlDragon"
+  twitter          : 
   vine             :
   weibo            :
   youtube          :
