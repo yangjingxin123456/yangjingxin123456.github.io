@@ -26,6 +26,52 @@ Education
 * June. 2023 —July.2023: AI + Metaverse Value Creator in The University of Hong Kong(mark A), Hong Kong, China 
 
 
+Projects
+===
+Cross-regional farm machinery leasing - Playing the role of God's hand    
+
+CTO                    
+
+Jan. 2022 - present 
+
+* Conducted on-site investigations and market research covering nearly 400,000 acres of land in 47 production units across 
+856 farms for two and a half months and small-scale closed pilots. 
+* Led the product launch and achieved over 100,000 active users within the first year of operation. The project has received 
+technical support and assistance from Tiktok and Kwai Research Institute. It has been sponsored by a national-level 
+innovation project, a 3,000,000 dollars fund from China, and won the National Silver Award of the Internet + Innovation and 
+Entrepreneurship Competition. 
+
+American Mathematical Contest in Modeling (MCM)        
+
+Title of paper: LOLIMOT Forecasting-Accuracy (Finalist Winner)                              
+
+Sep. 2022 - Oct. 2022 
+
+* Led and forecasted product prices across 5 retail locations through data management, encompassing 6M observations, 
+data collection, model training, data processing and selection, and utilization of different models and methods. 
+* Designed an efficient data visualization system for market analysis. Preprocessed raw data and conducted initial data analysis 
+including exploratory analysis, outlier detection and correlation analysis using Pandas and Matplotlib in Python. 
+* Engineered 20+ key features for modeling and prediction. The system improved work efficiency by 60% and reduced costs 
+by $50K monthly. 
+
+
+Higher Education Mini-Program Development Competition, China Second Prize (top 3%)  
+
+Project Manager                                                                      
+
+Jun. 2021 - Sep.2021 
+
+* Migrated 32 reports from two user businesses and updated the corresponding checklist output to a wiki to ensure the smooth 
+delivery of the project. 
+* Optimized the user experience by improving the UI and user package attributes of the Lingxi task list visual area, solving the 
+problem of database and front-end incompatibility problem, and adding 7 guidance prompts to help users better understand 
+the functions of the task list and user package attributes. 
+* Improved the construction of the user feedback channel and the statistics of feedback data by interviewing key users. 
+* Collected 18 user requirements and improved efficiency by reducing development time by 25% and reliability with zero 
+major incidents in 6 months of the BI platform's underlying processes through comprehensive analysis, optimization, quality 
+assurance and documentation.
+
+
 Honors and Awards
 ===
 * Virtue youth of Guangdong Province(2020).
