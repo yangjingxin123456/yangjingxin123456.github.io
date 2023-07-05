@@ -84,9 +84,12 @@ registered for SCAU, CN 2184 50237U, Jun 2023
 
 Internships
 ===
-iFLYTEK CO.LTD. | Asia Pacific Leading Voice and Artificial Intelligence Technology     
+iFLYTEK CO.LTD. | Asia Pacific Leading Voice and Artificial Intelligence Technology  
+
 May.2022-Sep.2022 
+
 Keywords: HUD, Deep Learning, Corn planters, Autonomous driving, Anomaly detection, Augmented reality. 
+
 * Improved corn planter count accuracy by 20% by optimizing deep-learning network models and data sets. 
 * Developed a more accurate maize seedling detection algorithm to realize real-time detection in complex environments. 
 * Planned path algorithm in automatic corn planter, realized smooth switching between automatic and manual driving of corn planter. 
@@ -94,8 +97,11 @@ Keywords: HUD, Deep Learning, Corn planters, Autonomous driving, Anomaly detecti
 
 
 Haier Group 
+
 Feb.2021 - Jul.2021 
+
 Keywords: C-end users, Python, IP address, Python, Forceful Recommendations, Positive Rate, Average Usage time. 
+
 * Established a system to address negative feedback from C-end users, including redundant recommendations, excessive advertising, and repeated videos. 
 * Identified instances where users with the same IP address consume different content, triggering forceful recommendations. 
 * Led the refinement of the recommendation system's IP-based shuffling mechanism, resulting in a 20% decrease in negative 
