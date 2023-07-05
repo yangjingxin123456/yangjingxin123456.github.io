@@ -28,7 +28,7 @@ Education
 
 Projects
 ===
-#### Cross-regional farm machinery leasing - Playing the role of God's hand    
+### Cross-regional farm machinery leasing - Playing the role of God's hand    
 
 CTO                    
 
@@ -41,7 +41,7 @@ technical support and assistance from Tiktok and Kwai Research Institute. It has
 innovation project, a 3,000,000 dollars fund from China, and won the National Silver Award of the Internet + Innovation and 
 Entrepreneurship Competition. 
 
-#### American Mathematical Contest in Modeling (MCM)        
+### American Mathematical Contest in Modeling (MCM)        
 
 Title of paper: LOLIMOT Forecasting-Accuracy (Finalist Winner)                              
 
@@ -55,7 +55,7 @@ including exploratory analysis, outlier detection and correlation analysis using
 by $50K monthly. 
 
 
-#### Higher Education Mini-Program Development Competition, China Second Prize (top 3%)  
+### Higher Education Mini-Program Development Competition, China Second Prize (top 3%)  
 
 Project Manager                                                                      
 
@@ -130,7 +130,7 @@ registered for SCAU, CN 2184 50237U, Jun 2023
 
 Internships
 ===
-#### iFLYTEK CO.LTD.
+### iFLYTEK CO.LTD.
 
 May.2022-Sep.2022 
 
@@ -142,7 +142,7 @@ Keywords: HUD, Deep Learning, Corn planters, Autonomous driving, Anomaly detecti
 * Adopted augmented reality technology in developing the HUD system of agricultural machinery to display real-time planting information, including seed formula, driving path, monitoring data, etc.
 
 
-#### Haier Group 
+### Haier Group 
 
 Feb.2021 - Jul.2021 
 
