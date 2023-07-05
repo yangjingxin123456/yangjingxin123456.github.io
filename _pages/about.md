@@ -67,8 +67,40 @@ Publications
 * J.X. Yang et al.,On the Study of Optimization and Coordination Countermeasures of Container Ports, Journal of Computational Science and Applied Statistics, 2022 
 * J.X. Yang, F.Z. Shi, and Q.Y. Li,3D Laser Acquisition and Modeling of Tunnel Engineering Point Cloud Data, Journal of 2022 International Conference on omputational Science and Applied Statistics, 2022 
 
+Patents
+===
+* Design and implementation of high reflective metal surface defect detection system based on HDRI, filed by
+ZL 2020 2 0081255.7, 2020
+* An improved mask-wearing detection method based on YOLOV4, filed by ZL 2021 100 26630.0, 2021
+* Enhanced Mask Detection System using YOLOV4 for Public Health, filed by ZL 2021 30108271.4, 2021
+* The utility model relates to a hud traffic safety warning device, filed by ZL 2022 30108350.5, 2022
+* A soil covering mechanical vehicle based on modern agriculture, filed by ZL 2022 30108078.5, 2022
+* An intelligent monitoring system and method for abnormal sound in live pigs, filed by CN 2110
+15894U,Oct. 2022
+* A mobile monitoring line patrol vehicle, patent registered for SCAU, CN 2184 50241U, Feb 2023
+* Infrared fast temperature measurement device and method for monitoring pig body temperature, patent
+registered for SCAU, CN 2184 50237U, Jun 2023
 
 
+Internships
+===
+iFLYTEK CO.LTD. | Asia Pacific Leading Voice and Artificial Intelligence Technology     
+May.2022-Sep.2022 
+Keywords: HUD, Deep Learning, Corn planters, Autonomous driving, Anomaly detection, Augmented reality. 
+* Improved corn planter count accuracy by 20% by optimizing deep-learning network models and data sets. 
+* Developed a more accurate maize seedling detection algorithm to realize real-time detection in complex environments. 
+* Planned path algorithm in automatic corn planter, realized smooth switching between automatic and manual driving of corn planter. 
+* Adopted augmented reality technology in developing the HUD system of agricultural machinery to display real-time planting information, including seed formula, driving path, monitoring data, etc.
+
+
+Haier Group 
+Feb.2021 - Jul.2021 
+Keywords: C-end users, Python, IP address, Python, Forceful Recommendations, Positive Rate, Average Usage time. 
+* Established a system to address negative feedback from C-end users, including redundant recommendations, excessive advertising, and repeated videos. 
+* Identified instances where users with the same IP address consume different content, triggering forceful recommendations. 
+* Led the refinement of the recommendation system's IP-based shuffling mechanism, resulting in a 20% decrease in negative 
+feedback compared to the previous period. 
+* Designed corresponding AB experiments, resulted in a 2% increase in retention rate, a 5% increase in interaction rate, a 7% increase in completion rate, a 5% increase in positive rate, and a 9% increase in average usage time for users in the experimental group of the recommendation page.
 
 
 <script>
