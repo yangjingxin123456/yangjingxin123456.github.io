@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /Academic supporting materials/
+permalink: /cv/
 author_profile: true
 ---
 
