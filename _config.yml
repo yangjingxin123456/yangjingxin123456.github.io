@@ -10,11 +10,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jingxin Yang123456"
+title                    : "Jingxin Yang"
 title_separator          : "-"
 name                     : &name "Jingxin Yang"
 description              : &description "personal description"
-url                      : https://yangjingxin.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yangjingxin123456.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yangjingxin123456/yangjingxin0114.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Jingxin Yang"
-  avatar           : "picture.jpg"
+  avatar           : "academic50k.jpg"
   bio              : "Being proactive leads to opportunities. "
   location         : "Guangzhou, China"
   employer         : "SCAU"
