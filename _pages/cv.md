@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-My CV is also available to download [here](../files/Yang Jingxin - Academic supporting materials.pdf){:target="_blank"}.
+My academic supporting materials is also available to download [here](../files/Yang Jingxin - Academic supporting materials.pdf){:target="_blank"}.
 
 <object data="../files/Yang Jingxin - Academic supporting materials.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="../files/Yang Jingxin - Academic supporting materials.pdf">
