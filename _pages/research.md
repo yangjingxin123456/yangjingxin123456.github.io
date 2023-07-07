@@ -17,14 +17,27 @@ author_profile: true
 
 # Projects
 
-## 1. Interpretable adversarial attacks with causal disentangled representations
+## 1. AI + Metaverse Value Creator
 
-*Summer Research Program at HKUST*
+*Summer Research Program at HKU*
 
-Supervisor: Prof. [Tong Zhang](https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=860)
+Supervisor: Prof. [Adela S.M. Lau]([https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=860](https://dblp.org/pid/98/6322.html))
 
-June 2022 --- Aug. 2022, HKUST
+June 2023 --- Aug. 2023, HKU
+
+· Major Courses: Metaverse Design, Algorithm design, Machine learning and 3D modeling 
+• Developed innovative marketing strategies utilizing augmented reality and 3D modeling to optimize user engagement and satisfaction, resulting in a 30% increase in engagement and revenue. 
+• Designed and optimized computer vision algorithms for intelligent monitoring and control of an unmanned football field, achieving high accuracy in identifying key targets such as players and soccer balls, and implementing precise target tracking algorithms for multiple moving targets in complex backgrounds. 
+• Contributed to the design and development of a court automatic control system, enabling automatic switch control of the goal and moving obstacles, and created a virtual reality system to transform image signals into a 3D scene, showcasing strong visual recognition and control capabilities. 
+• Successfully demonstrated a fully functional unmanned soccer field system with a virtual reality environment, showcasing the application of computer vision in sports and virtual reality environment, showcasing the application of computer vision in sports and virtual reality, and providing valuable insights for future advancements in the field. 
 
 
-In this research, we explore the relationship between causal disentanglement and adversarial attack. We propose a prospective method to detect adversarial examples by causal disentanglement and provide a direct interpretation for the adversarial noise from causal perspectives.
 
+## 2. Western Wheat Field School Support Group
+
+*Volunteer teaching in summer*
+
+May 2022 --- Sep. 2022, Gansu province
+
+•Designed and made a series of computer courses and exercises according to students’ age and foundation, including the use of windows operating system, PPT making, Word processing software use and programming introduction. 
+•Used a project-based approach in which students are required to complete assigned assignments and exercises to test their learning. 
