@@ -134,33 +134,28 @@ Honors and Awards
 
 Activities
 ===
-* TA in Machine learning and data mining (Credit:5, Class:192 freshmen)
-
+* Teach For America
+* Western What Field School Support Group
+* SCAU-China iGEM Team – Drylab Leader
 
 Publications
 ===
-* J.X. Yang, R.P. Fu,Give it to whoever deserves it”: labour Theory Defines Copyright of AIGC and lts Methodology, journal of EIPR, 2023 
-* J.X. Yang, R.P. Fu,The high-quality development of intellectual property enables the Chinese-style modernization drive, First prize of the 3rd China Political Science Undergraduate Academic Seminar of South China Normal Universityand East China Normal University, 2023 
-* J.X. Yang, R.P. Fu,Labor Theory Defines the Copyright, Methodology, and Liberation of Artificial Intelligence Products, journal of Measurement under review, 2023 
-* J.X. Yang et al.,High-precision extraction algorithm for pig ear temperature based on infrared thermography, journal of Measurement under review, 2023 
-* J.X. Yang, R.P. Fu, W.J.Li,Gender differences in corruption cases in China: An Analysis based on Deep Learning, journal of Measurement under review, 2023 
-* J. Cai, J.X. Yang, Whether the participation of intermediary organizations is helpful to improve the marketization degree of the selection of agricultural land transfer objects - Research perspective based on plot samples, CSSCI−Journal of South China Agricultural University, South China Agricultural University, 2022 
-* J.X. Yang et al.,On the Study of Optimization and Coordination Countermeasures of Container Ports, Journal of Computational Science and Applied Statistics, 2022 
-* J.X. Yang, F.Z. Shi, and Q.Y. Li,3D Laser Acquisition and Modeling of Tunnel Engineering Point Cloud Data, Journal of 2022 International Conference on omputational Science and Applied Statistics, 2022 
+* J.X. Yang, P.N. Li, “High-Precision Extraction Algorithm for Pig Ear Temperature Based on InfraredThermography”, accepted by Measurement (Impact Factor: 5.2), expected publication in 2024.
+* J.X. Yang, R.P. Fu, “Gender Differences in Corruption Cases in China: An Analysis Based on Deep Learning”, presented at International Communication Association (Top Conference), 2023.
+* R.P. Fu, J.X. Yang, “Give it to Whoever Deserves It”: Labour Theory Defines Copyright of AIGC and Its Methodology”, published in Journal of European Intellectual Property Review, 2023.
+* J.X. Yang, et al., “3D Laser Acquisition and Modeling of Tunnel Engineering Point Cloud Data”,presented at International Conference on Scientific Computation and Applied Statistics, 2022.
+
+
 
 Patents
 ===
-* Design and implementation of high reflective metal surface defect detection system based on HDRI, filed by
-ZL 2020 2 0081255.7, 2020
-* An improved mask-wearing detection method based on YOLOV4, filed by ZL 2021 100 26630.0, 2021
-* Enhanced Mask Detection System using YOLOV4 for Public Health, filed by ZL 2021 30108271.4, 2021
-* The utility model relates to a hud traffic safety warning device, filed by ZL 2022 30108350.5, 2022
-* A soil covering mechanical vehicle based on modern agriculture, filed by ZL 2022 30108078.5, 2022
-* An intelligent monitoring system and method for abnormal sound in live pigs, filed by CN 2110
-15894U,Oct. 2022
-* A mobile monitoring line patrol vehicle, patent registered for SCAU, CN 2184 50241U, Feb 2023
-* Infrared fast temperature measurement device and method for monitoring pig body temperature, patent
-registered for SCAU, CN 2184 50237U, Jun 2023
+* AI-Powered Multi-Modal Livestock Welfare Assessment System, May 2024
+* Intelligent Agricultural Machinery Route Optimization and Energy Efficiency System, February 2024
+* Rapid-Response Infrared Thermometry Device for Livestock Health Monitoring, June 2023
+* Automated Soil-Covering Vehicle for Modern Agricultural Applications, September 2022
+* AI-Driven Livestock Sound Monitoring and Classification System, April 2022
+* Intelligent Mobile Charging Robot System with Magnetic Levitation, November 2021
+* VR-Based System for Optimizing Machinery Scheduling and Traffic Flow, March 2020
 
 
 Internships
