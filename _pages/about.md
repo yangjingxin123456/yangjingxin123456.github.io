@@ -17,21 +17,40 @@ Current
 Short Bio
 ===
 
-I am Jingxin（Victoria） Yang, a first-year master's student in Management Science and Engineering at [Stanford University](https://msande.stanford.edu/). In July 2024, I graduated as an outstanding student from [SCAU](https://www.scau.edu.cn/), where I majored in Computer Science and Technology. My primary research interests include adversarial robustness, graph mining, federated learning, differential privacy, and their intersections.
+I am Jingxin（Victoria）Yang, a first-year master's student in Management Science and Engineering at [Stanford University](https://msande.stanford.edu/). In July 2024, I graduated as an outstanding student from [SCAU](https://www.scau.edu.cn/), where I majored in Computer Science and Technology. My primary research interests include adversarial robustness, graph mining, federated learning, differential privacy, and their intersections.
 
 
 Education
 ===
-M.S. in Management Science & Engineering, Stanford University, Stanford, CA, USA (Expected Sept. 2026)
-Coursework: Foundations of Decision Analysis (A+), Investment Science (A), NLP for Computational Social Science, Natural Language Processing with Deep Learning.
+### **Stanford University**  
+*Master of Science in Management Science & Engineering* (Expected September 2026)  
+**Stanford, CA, USA**  
+- **Coursework**:  
+  - Foundations of Decision Analysis (A+), Investment Science (A)  
+  - Natural Language Processing (NLP) for Computational Social Science  
+  - Natural Language Processing with Deep Learning  
+- **Research Assistant**: Computational Social Science (2024)  
+- **Teaching Assistant**: Stanford Women in Math Mentoring (2024)  
 
-Research Assistant: Computational Social Science (2024)
-Teaching Assistant: Stanford Women in Math Mentoring (2024)
-B.Eng. in Computer Science & Technology, South China Agricultural University, Guangzhou, China (Expected June 2024)
-GPA: 3.73/4.00 (Final Year: 4.00/4.00, Top 1%) | Rank: 3/219
+### **South China Agricultural University**  
+*Bachelor of Engineering in Computer Science & Technology* (Expected June 2024)  
+**Guangzhou, China**  
+- **GPA**: 3.73/4.00 (Final Year: 4.00/4.00, Top 1%)  
+- **Rank**: 3/219  
+- **Honors**:  
+  - National Scholarship (Top 1%, 2021-2023)  
+  - Government Scholarship (Top 1%, 2023)  
+  - Chow Tai Fook Scholarship (2021-2022)  
+- **Teaching Assistant**:  
+  - Machine Learning and Data Mining  
+  - Python Programming  
+  - Algorithms and Data Structures  
 
-Honors: National Scholarship (Top 1%, 2021-2023), Government Scholarship (Top 1%, 2023), Chow Tai Fook Scholarship (2021-2022).
-Teaching Assistant: Machine Learning and Data Mining, Python Programming, Algorithms and Data Structures.
+### **The University of Hong Kong**  
+*AI + Metaverse Value Creator Program* (June 2023 – July 2023)  
+**Hong Kong, China**  
+- Achieved Grade A.  
+- Explored AI applications in immersive metaverse environments, integrating technical and entrepreneurial insights.  
 
 
 Projects
