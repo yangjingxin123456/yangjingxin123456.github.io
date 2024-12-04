@@ -52,10 +52,13 @@ Education
 
 
 ### **The University of Hong Kong**  
-*AI + Metaverse Value Creator Program* (June 2023 – July 2023)  
+*Summer Research Programme 2023 in Computational Social Science* (June 2023 – September 2023)  
 **Hong Kong, China**  
-- Achieved Grade A.  
-- Explored AI applications in immersive metaverse environments, integrating technical and entrepreneurial insights.  
+- **Achievements**:  
+  - Participated in a summer research program focusing on computational social science methodologies.  
+  - Conducted interdisciplinary research integrating machine learning and social network analysis.  
+  - Awarded a scholarship of 10,000 RMB for academic excellence.  
+
 
 
 Projects
