@@ -11,19 +11,27 @@ redirect_from:
 Current
 ===
 
-*I am interested in exploring advanced machine learning techniques and applying them to real-world problems. My research interest includes machine learning, computer vision, natural language processing, Intelligent farming computational law and communications.*
+*I am eager to explore advanced machine learning methodologies and apply them to interdisciplinary research at the intersection of computational social science, entrepreneurship studies, and sociology. My research interests include machine learning, natural language processing, social network analysis, and the development of equitable and data-driven frameworks for addressing societal challenges.*
 
 
 Short Bio
 ===
-I am **Jingxin Yang** (杨景欣), a fourth-year undergraduate student at [SCAU](https://www.scau.edu.cn/), majoring in Computer science and technology.
-My primary research interests are adversarial robustness, graph mining, federated learning, differntial privacy and their intersections.
+
+I am Jingxin（Victoria） Yang, a first-year master's student in Management Science and Engineering at [Stanford University](https://msande.stanford.edu/). In July 2024, I graduated as an outstanding student from [SCAU](https://www.scau.edu.cn/), where I majored in Computer Science and Technology. My primary research interests include adversarial robustness, graph mining, federated learning, differential privacy, and their intersections.
 
 
 Education
 ===
-* Sep. 2020-Present：B.Eng. in Computer Science & Technology, South China Agriculture University, GPA: 3.73/4.00（the last year GPA: 4.00/4.00, top 1%）,Guangdong, China (expected)
-* June. 2023 —July.2023: AI + Metaverse Value Creator in The University of Hong Kong(mark A), Hong Kong, China 
+M.S. in Management Science & Engineering, Stanford University, Stanford, CA, USA (Expected Sept. 2026)
+Coursework: Foundations of Decision Analysis (A+), Investment Science (A), NLP for Computational Social Science, Natural Language Processing with Deep Learning.
+
+Research Assistant: Computational Social Science (2024)
+Teaching Assistant: Stanford Women in Math Mentoring (2024)
+B.Eng. in Computer Science & Technology, South China Agricultural University, Guangzhou, China (Expected June 2024)
+GPA: 3.73/4.00 (Final Year: 4.00/4.00, Top 1%) | Rank: 3/219
+
+Honors: National Scholarship (Top 1%, 2021-2023), Government Scholarship (Top 1%, 2023), Chow Tai Fook Scholarship (2021-2022).
+Teaching Assistant: Machine Learning and Data Mining, Python Programming, Algorithms and Data Structures.
 
 
 Projects
