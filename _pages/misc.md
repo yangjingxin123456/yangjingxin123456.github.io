@@ -41,8 +41,10 @@ Achievement
 
 Language
 ===
-IELTS:7.0(Speaking 6.5)
-GRE:337(Q170,Writing4.5)
+• IELTS: 8.0 (Writing: 8.5)
+• TOPIK II: 6
+• TOEFL: 116 (Speaking: 28)
+• GRE: 339 (V: 169, Q: 170, Writing: 4.5)
 
 
 
