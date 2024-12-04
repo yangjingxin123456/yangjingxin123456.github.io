@@ -25,8 +25,6 @@ Supervisor: Prof. [Adela S.M. Lau]([https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=86
 
 June 2023 --- Aug. 2023, HKU
 
-* Major Courses: Metaverse Design, Algorithm design, Machine learning and 3D modeling 
-
 * Developed innovative marketing strategies utilizing augmented reality and 3D modeling, optimizing user engagement and satisfaction. Achieved a 30% increase in user engagement and contributed to a $20,000 increase in revenue for pilot metaverse-based services.
 * Designed and optimized computer vision algorithms for intelligent monitoring and control of an unmanned football field. Achieved 95% accuracy in identifying key targets such as players and soccer balls and implemented precise target tracking algorithms capable of handling up to 10 moving targets simultaneously in complex dynamic backgrounds.
 * Contributed to the design and development of a court automatic control system, enabling automatic switch control of the goal and moving obstacles. Enhanced operational efficiency by 50%, reducing system response time to less than 200 milliseconds.
