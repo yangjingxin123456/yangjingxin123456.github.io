@@ -17,7 +17,7 @@ Current
 Short Bio
 ===
 
-I am Jingxin（Victoria）Yang, a first-year master's student in Management Science and Engineering at [Stanford University](https://msande.stanford.edu/). In July 2024, I graduated as an outstanding student from [SCAU](https://www.scau.edu.cn/), where I majored in Computer Science and Technology. My primary research interests include adversarial robustness, graph mining, federated learning, differential privacy, and their intersections.
+I am Jingxin（Victoria）Yang, a first-year master's student in Management Science and Engineering at [Stanford University](https://msande.stanford.edu/). In July 2024, I graduated as an outstanding student from [SCAU](https://www.scau.edu.cn/), where I majored in Computer Science and Technology. 
 
 
 Education
@@ -32,6 +32,8 @@ Education
 - **Research Assistant**: Computational Social Science (2024)  
 - **Teaching Assistant**: Stanford Women in Math Mentoring (2024)  
 
+
+
 ### **South China Agricultural University**  
 *Bachelor of Engineering in Computer Science & Technology* (Expected June 2024)  
 **Guangzhou, China**  
@@ -45,6 +47,9 @@ Education
   - Machine Learning and Data Mining  
   - Python Programming  
   - Algorithms and Data Structures  
+
+
+
 
 ### **The University of Hong Kong**  
 *AI + Metaverse Value Creator Program* (June 2023 – July 2023)  
