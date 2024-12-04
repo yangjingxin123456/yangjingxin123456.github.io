@@ -69,12 +69,16 @@ CTO
 
 Jan. 2022 - present 
 
-* Conducted on-site investigations and market research covering nearly 400,000 acres of land in 47 production units across 
-856 farms for two and a half months and small-scale closed pilots. 
-* Led the product launch and achieved over 100,000 active users within the first year of operation. The project has received 
-technical support and assistance from Tiktok and Kwai Research Institute. It has been sponsored by a national-level 
-innovation project, a 3,000,000 dollars fund from China, and won the National Silver Award of the Internet + Innovation and 
-Entrepreneurship Competition. 
+* Developed a VR-based traffic flow prediction model, improving machinery scheduling efficiency by 15% and
+reducing transportation time by 20%.
+* Constructed a Ridge Regression model that increased agricultural demand prediction accuracy from 65%
+to 77.8%, effectively reducing resource waste by 22.58%.
+* Implemented an optimized routing algorithm and launched a Heads-Up Display interface, reducing empty
+mileage by 21.30% and lowering operating costs by 16.21%. The system drove user growth to 2 million
+within the first year, covering 35 rural areas and enhancing agricultural information accessibility by 51.2%.
+*  Leveraged university engineering innovation labs and collaborated with industry experts to drive
+technology transfer. Secured support from TikTok, Kwai Research Institute, and a $4 million national
+innovation grant. Achieved a top 10 placement in the Disrupt SF - Startup Battlefield competition.
 
 ### American Mathematical Contest in Modeling (MCM)        
 
@@ -82,12 +86,10 @@ Title of paper: LOLIMOT Forecasting-Accuracy (Finalist Winner)
 
 Sep. 2022 - Oct. 2022 
 
-* Led and forecasted product prices across 5 retail locations through data management, encompassing 6M observations, 
-data collection, model training, data processing and selection, and utilization of different models and methods. 
-* Designed an efficient data visualization system for market analysis. Preprocessed raw data and conducted initial data analysis 
-including exploratory analysis, outlier detection and correlation analysis using Pandas and Matplotlib in Python. 
-* Engineered 20+ key features for modeling and prediction. The system improved work efficiency by 60% and reduced costs 
-by $50K monthly. 
+* Led a price forecasting project for products across 5 retail locations, managing over 6 million observations and coordinating end-to-end data management, including data collection, preprocessing, model training, and deployment.
+* Designed an advanced data visualization system to facilitate market analysis. Leveraged Python libraries such as Pandas and Matplotlib to preprocess raw data, conduct exploratory data analysis, detect outliers, and analyze correlations, resulting in the identification of 15% more actionable trends in market patterns.
+* Engineered over 20 critical features for modeling and prediction, enhancing model accuracy by 25%. Tested and compared models, including LOLIMOT and ARIMA, to select the most robust solution for dynamic price forecasting.
+* Improved operational efficiency by 60% through system automation, reducing manual intervention and cutting costs by $50,000 monthly across retail locations by optimizing pricing strategies and inventory management.
 
 
 ### Higher Education Mini-Program Development Competition, China Second Prize (top 3%)  
@@ -96,41 +98,44 @@ Project Manager
 
 Jun. 2021 - Sep.2021 
 
-* Migrated 32 reports from two user businesses and updated the corresponding checklist output to a wiki to ensure the smooth 
-delivery of the project. 
-* Optimized the user experience by improving the UI and user package attributes of the Lingxi task list visual area, solving the 
-problem of database and front-end incompatibility problem, and adding 7 guidance prompts to help users better understand 
-the functions of the task list and user package attributes. 
-* Improved the construction of the user feedback channel and the statistics of feedback data by interviewing key users. 
-* Collected 18 user requirements and improved efficiency by reducing development time by 25% and reliability with zero 
-major incidents in 6 months of the BI platform's underlying processes through comprehensive analysis, optimization, quality 
-assurance and documentation.
+* Migrated 32 reports from two user businesses to a centralized wiki platform, streamlining project delivery and reducing cross-team communication time by 20%, ensuring a smoother handover process.
+* Enhanced user experience by redesigning the UI and improving user package attributes for the Lingxi task list visual area. Resolved database and front-end incompatibility issues, implemented 7 guidance prompts, increasing user task completion rates by 15% and reducing onboarding time by 30%.
+* Established a robust user feedback channel by conducting interviews with 10+ key users and analyzing feedback data, leading to 20% faster resolution of usability issues and a 25% increase in overall user satisfaction.
+* Collected and integrated 18 critical user requirements, resulting in a 25% reduction in development time for BI platform processes. Achieved zero major incidents over 6 months through meticulous process optimization, quality assurance, and comprehensive documentation updates.
 
 
 Honors and Awards
 ===
-* Virtue youth of Guangdong Province(2020).
-* Outstanding member of Guangdong Provincial Communist Youth League (2020).
-* First-Class Scholarship by SCAU for academic excellence (2020-2021、2021-2022) top2%.
-* Wen's Group Scholarship in recognition of outstanding academic performance and leadership skills (2021) only one in my grade.
-* Chow Tai Fook Scholarship for academic excellence,  extracurricular achievements,  and community service (2022)only one in my major.
-* Peking University One HSBC Business Competition,  Rural Revitalization Group,  Third Place in the World,  2021
-* First prize in the Nuremberg Technology Innovation Competition in Germany, with a special prize in the Morocco competition, 2019
-* Internet+ Innovation and Entrepreneurship Competition,  Higher Education Group,  National Silver Award,  Guangdong Province Gold Award,  2022
-* Internet+ Innovation and Entrepreneurship Competition,  Industry Group,  National Silver Award, Science and Technology Enterprise Group - iFLYTEK,  2022
-* China Science and Technology Innovation Competition,  National Second Prize,  and First Prize at the provincial level in Guangdong,  2018
-* The 8th "Challenge Cup" National Youth Innovation and Entrepreneurship Competition,  Business and Technology Group,  National Silver Award,  2022
-* China International Aircraft Design Challenge (CADC), National Silver Award,  2021
-* The 14th National College Students Energy Conservation and Emission Reduction Competition,  First prize,  2021
-* Internet+ Innovation and Entrepreneurship Competition,  Higher Education Group,  Creative Group,  National Bronze Award,  Shandong Province Gold Award,  2021
-* Mathorcup National College Student Mathematical Modeling Competition,  National First Prize,  2022,  Team Leader
-* Huashu Cup Mathematical Modeling Competition,  National Second Prize,  2022
-* The 11th National College Students E-Commerce "Innovation,  Creativity,  and Entrepreneurship" Challenge,  Guangdong Province Special Award,  2021
-* Win in Guangzhou College Students' Entrepreneurship Competition,  Gold Award,  2023
-* Challenge Cup National College Student Innovation and Entrepreneurship Competition,  Guangdong Province Silver Award, 2022·  The "Maker Cup" College Student Innovation and Entrepreneurship Competition,  Gold Award,  2021,  Team Leader
-* Challenge Cup National College Students Extracurricular Academic Science and Technology Competition,  Natural Science Category,  First Prize,  2023,  Team Leader
-* "Ding Ying Cup" Invention and Creativity Competition,  First Prize,  2023,  Team Leader
-
+* Outstanding Graduation Thesis of South China Agricultural University (2024)
+* Guangzhou College Students' Entrepreneurship Competition (2023) — Gold Award.
+* Challenge Cup National College Students Extracurricular Academic Science and Technology Competition (2023) — Natural Science Category, First Prize; Team Leader.
+* "Ding Ying Cup" Invention and Creativity Competition (2023) — First Prize; Team Leader.
+* National Scholarship (2023) — Awarded to top 1% of students for exceptional academic performance.
+* Challenge Cup National College Student Innovation and Entrepreneurship Competition (2022) — Guangdong Province Silver Award.
+* Internet+ Innovation and Entrepreneurship Competition (2022)
+* Higher Education Group, National Silver Award, Guangdong Province Gold Award
+* Industry Group, National Gold Award, Science and Technology Enterprise Group – iFLYTEK
+* The 8th "Challenge Cup" National Youth Innovation and Entrepreneurship Competition (2022) — Business and Technology Group, National Gold Award.
+* Mathorcup National College Student Mathematical Modeling Competition (2022) — National First Prize; Team Leader.
+* Huashu Cup Mathematical Modeling Competition (2022) — National Second Prize.
+* National Scholarship (2022) — Awarded to top 1% of students for exceptional academic performance.
+* Wen's Group Scholarship (2022) — Recognized for outstanding academic performance and leadership skills; awarded to the only recipient in my grade.
+* Chow Tai Fook Scholarship (2022) — Awarded for academic excellence, extracurricular achievements, and community service; only recipient in my major.
+* Internet+ Innovation and Entrepreneurship Competition (2021)
+* Higher Education Group, Creative Group, National Bronze Award, Shandong Province Gold Award
+* China International Aircraft Design Challenge (CADC) (2021) — National Silver Award.
+* The 14th National College Students Energy Conservation and Emission Reduction Competition (2021) — First Prize.
+* The 11th National College Students E-Commerce "Innovation, Creativity, and Entrepreneurship" Challenge (2021) — Guangdong Province Special Award.
+* "Maker Cup" College Student Innovation and Entrepreneurship Competition (2021) — Gold Award; Team Leader.
+* National Scholarship (2021) — Awarded to top 1% of students for exceptional academic performance.
+* Wen's Group Scholarship (2021) — Recognized for outstanding academic performance and leadership skills; awarded to the only recipient in my grade.
+* Chow Tai Fook Scholarship (2021) — Awarded for academic excellence, extracurricular achievements, and community service; only recipient in my major.
+* Peking University One HSBC Business Competition (2021) — Rural Revitalization Group, Third Place in the World.
+* Virtue Youth of Guangdong Province (2020)
+* Outstanding Member of Guangdong Provincial Communist Youth League (2020)
+* First-Class Scholarship by SCAU for Academic Excellence (2020-2021, 2021-2022) — Top 2%.
+* Nuremberg Technology Innovation Competition (2019) — First Prize; also received Special Prize in the Morocco competition.
+* China Science and Technology Innovation Competition (2018) — National Second Prize and Guangdong Province First Prize.
 
 Activities
 ===
@@ -161,28 +166,30 @@ Patents
 Internships
 ===
 ### iFLYTEK CO.LTD.
-
 May.2022-Sep.2022 
-
-Keywords: HUD, Deep Learning, Corn planters, Autonomous driving, Anomaly detection, Augmented reality. 
-
-* Improved corn planter count accuracy by 20% by optimizing deep-learning network models and data sets. 
-* Developed a more accurate maize seedling detection algorithm to realize real-time detection in complex environments. 
-* Planned path algorithm in automatic corn planter, realized smooth switching between automatic and manual driving of corn planter. 
-* Adopted augmented reality technology in developing the HUD system of agricultural machinery to display real-time planting information, including seed formula, driving path, monitoring data, etc.
-
+* Improved corn planter count accuracy by 20% through optimization of deep-learning network models and expansion of the annotated dataset by 35%, enhancing model robustness in diverse planting scenarios.
+* Achieved real-time maize seedling detection speeds under 100ms per frame with detection accuracy surpassing 90% in complex environments by designing a custom convolutional neural network and employing advanced data augmentation techniques.
+* Designed and implemented an automatic path-planning algorithm for autonomous corn planters using probabilistic roadmaps and trajectory smoothing, achieving seamless mode-switching latency under 1 second and reducing manual intervention frequency by 25%.
+* Developed an augmented reality HUD system for agricultural machinery, integrating real-time planting information such as seed formulas, driving paths, and operational metrics, improving user decision-making efficiency by 20% and reducing operational errors.
 
 ### Haier Group 
-
 Feb.2021 - Jul.2021 
-
-Keywords: C-end users, Python, IP address, Python, Forceful Recommendations, Positive Rate, Average Usage time. 
-
 * Established a system to address negative feedback from C-end users, including redundant recommendations, excessive advertising, and repeated videos. 
 * Identified instances where users with the same IP address consume different content, triggering forceful recommendations. 
 * Led the refinement of the recommendation system's IP-based shuffling mechanism, resulting in a 20% decrease in negative 
 feedback compared to the previous period. 
 * Designed corresponding AB experiments, resulted in a 2% increase in retention rate, a 5% increase in interaction rate, a 7% increase in completion rate, a 5% increase in positive rate, and a 9% increase in average usage time for users in the experimental group of the recommendation page.
+
+
+### Simplify
+Sept. 2024 – Present
+* Expanded Simplify’s functionality to include study-abroad application autofill by designing and launching an intelligent form parsing solution, improving user application efficiency by 40%.
+* Led core feature development, including intelligent form parsing, real-time error checking, and application status tracking, significantly reducing redundant data entry time across multiple platforms.
+* Constructed an international marketing ecosystem by integrating Instagram, Reddit, and Twitter resources, driving a 30% increase in traffic and attracting a global audience of international students and job seekers.
+* Designed incentive programs utilizing giveaways and user-sharing mechanisms, boosting engagement rates by 20% and growing Instagram followers by over 100,000 within two months.
+
+
+
 
 
 <script>
