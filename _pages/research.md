@@ -8,10 +8,10 @@ author_profile: true
 
 # Research interets
 
-1. Federal learning
-   - graph mining
-   - differntial privacy
-2. Adversarial Robustness
+1. Computational social science
+   - social equity
+   - computational methodologies
+2. Entrepreneurship
 
 ---
 
