@@ -46,19 +46,25 @@ Education
 
 
 
-### **South China Agricultural University**  
-*Bachelor of Engineering in Computer Science & Technology* (Expected June 2024)  
+### **South China Agricultural University (SCAU)**  
+*Bachelor of Engineering in Computer Science & Technology* (September 2020 – June 2024)  
 **Guangzhou, China**  
-- **GPA**: 3.73/4.00 (Final Year: 4.00/4.00, Top 1%)  
-- **Rank**: 3/219  
-- **Honors**:  
-  - National Scholarship (Top 1%, 2021-2023)  
+- **GPA**: 87/100 (≈ 3.73/4.00), Final Year: 4.00/4.00  
+- **Rank**: 3/219 (Top 1%)  
+- **Honors & Awards**:  
+  - National Scholarship (Top 1%, 2021, 2022, 2023)  
   - Government Scholarship (Top 1%, 2023)  
-  - Chow Tai Fook Scholarship (2021-2022)  
+  - Chow Tai Fook Scholarship (2021, 2022)  
+  - Wens Company Scholarship (2021, 2022)  
 - **Teaching Assistant**:  
   - Machine Learning and Data Mining  
-  - Python Programming  
+  - Natural Language Processing  
+  - Computational Social Science  
   - Algorithms and Data Structures  
+  - Database Management Systems  
+- **Extracurricular**:  
+  - Drylab Leader, *SCAU-China iGEM Team* — led modeling & data analysis, team won *Global Gold Award* (2021)  
+
 
 
 
