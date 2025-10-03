@@ -49,7 +49,7 @@ Education
 ### **South China Agricultural University (SCAU)**  
 *Bachelor of Engineering in Computer Science & Technology* (September 2020 – June 2024)  
 **Guangzhou, China**  
-- **GPA**: 87/100 (≈ 3.73/4.00), Final Year: 4.00/4.00  
+- **GPA**: 3.73/4.00, Final Year: 4.00/4.00  
 - **Rank**: 3/219 (Top 1%)  
 - **Honors & Awards**:  
   - National Scholarship (Top 1%, 2021, 2022, 2023)  
