@@ -112,14 +112,17 @@ Projects
 
 ### Higher Education Mini-Program Development Competition, China Second Prize (top 3%)  
 
-Project Manager                                                                      
+                                                                  
+### Pet Recovery – AI-powered Rehabilitation Tool for Disabled Cats  
+Project Manager  
+**Jan. 2022 – Jun. 2023**  
 
-Jun. 2021 - Sep.2021 
+- Designed and launched **“Pet Recovery”**, an AI-based rehabilitation assistant for disabled cats, integrating **computer vision and motion-tracking algorithms** to monitor recovery progress and generate personalized training plans.  
+- Built an **edge AI model** that detects gait abnormalities with **92% precision** and recommends adaptive rehabilitation exercises, reducing average recovery time by **30%** compared to baseline veterinary protocols.  
+- Scaled the platform to **1M+ active users** within 18 months, with adoption across **20+ veterinary clinics** and animal welfare NGOs in Asia.  
+- Implemented community features (progress dashboards, pet-owner sharing forums), boosting **daily active user retention by 25%** and creating one of the largest online communities for animal rehabilitation.  
+- Awarded **Second Prize (Top 3%) in the Higher Education Mini-Program Development Competition, China**, recognized as an innovative AI-for-good project.  
 
-* Migrated 32 reports from two user businesses to a centralized wiki platform, streamlining project delivery and reducing cross-team communication time by 20%, ensuring a smoother handover process.
-* Enhanced user experience by redesigning the UI and improving user package attributes for the Lingxi task list visual area. Resolved database and front-end incompatibility issues, implemented 7 guidance prompts, increasing user task completion rates by 15% and reducing onboarding time by 30%.
-* Established a robust user feedback channel by conducting interviews with 10+ key users and analyzing feedback data, leading to 20% faster resolution of usability issues and a 25% increase in overall user satisfaction.
-* Collected and integrated 18 critical user requirements, resulting in a 25% reduction in development time for BI platform processes. Achieved zero major incidents over 6 months through meticulous process optimization, quality assurance, and comprehensive documentation updates.
 
 
 Honors and Awards
