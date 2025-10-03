@@ -39,13 +39,13 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-/* ==== custom overrides: author avatar (circle 240x240) ==== */
-.author__avatar { width: 240px !important; height: 240px !important; }
-.author__avatar img{
-  width: 240px !important;
-  height: 240px !important;
-  max-width: none !important;   /* 取消主题的上限 */
-  object-fit: cover;
-  border-radius: 50% !important;
-}
+// /* ==== custom overrides: author avatar (circle 240x240) ==== */
+// .author__avatar { width: 240px !important; height: 240px !important; }
+// .author__avatar img{
+//   width: 240px !important;
+//   height: 240px !important;
+//   max-width: none !important;   /* 取消主题的上限 */
+//   object-fit: cover;
+//   border-radius: 50% !important;
+// }
 
