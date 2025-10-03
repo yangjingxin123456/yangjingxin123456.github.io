@@ -1,10 +1,15 @@
-# main links links
-main:
+  main:
   - title: "Resume"
     url: /cv/
-
   - title: "Research"
     url: /research/
-    
-  - title: "Misc"
-    url: /misc/
+  - title: "Publications"
+    url: /publications/
+  - title: "Projects"
+    url: /projects/
+  - title: "Photos"
+    url: /photos/
+  - title: "About Me"
+    url: /about/
+    - title: "Contact" 
+    url: /Contact/
