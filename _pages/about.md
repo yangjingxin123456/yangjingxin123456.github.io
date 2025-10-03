@@ -11,7 +11,7 @@ redirect_from:
 Current
 ===
 
-*I am eager to explore advanced machine learning methodologies and apply them to interdisciplinary research at the intersection of computational social science, entrepreneurship studies, and sociology. My research interests include machine learning, natural language processing, social network analysis, and the development of equitable and data-driven frameworks for addressing societal challenges.*
+*I am a master’s student in Management Science & Engineering at Stanford University, focusing on computational social science, generative AI, and network modeling. My research interests include machine learning, natural language processing, and causal inference, with an emphasis on developing data-driven and equitable frameworks to address societal challenges.*
 
 
 Short Bio
