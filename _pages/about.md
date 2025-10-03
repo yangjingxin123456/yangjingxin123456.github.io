@@ -87,22 +87,16 @@ Education
 
 Projects
 ===
-### Cross-regional farm machinery leasing - Playing the role of God's hand    
+### **Agricultural Machinery Leasing and Optimization System**  
+*Chief Technology Officer*  
+**Heilongjiang Province, China | Jan. 2022 – Present**  
 
-CTO                    
+- Developed a **VR-based traffic flow prediction model**, improving machinery scheduling efficiency by 15% and reducing transportation time by 20%.  
+- Built a **Ridge Regression demand forecasting model**, raising prediction accuracy from 65% to 77.8% and reducing resource waste by 22.6%.  
+- Implemented an **optimized routing algorithm** with a Heads-Up Display interface, cutting empty mileage by 21.3% and lowering operating costs by 16.2%. The system attracted over **2 million users** in the first year, covering 35 rural areas and increasing agricultural information accessibility by 51.2%.  
+- Collaborated with **university innovation labs and industry partners** to accelerate technology transfer. Secured support from **TikTok**, **Kwai Research Institute**, and won a **$4 million national innovation grant**.  
+- Recognized internationally: achieved **Top 10 placement** in the *Disrupt SF – Startup Battlefield* competition.  
 
-Jan. 2022 - present 
-
-* Developed a VR-based traffic flow prediction model, improving machinery scheduling efficiency by 15% and
-reducing transportation time by 20%.
-* Constructed a Ridge Regression model that increased agricultural demand prediction accuracy from 65%
-to 77.8%, effectively reducing resource waste by 22.58%.
-* Implemented an optimized routing algorithm and launched a Heads-Up Display interface, reducing empty
-mileage by 21.30% and lowering operating costs by 16.21%. The system drove user growth to 2 million
-within the first year, covering 35 rural areas and enhancing agricultural information accessibility by 51.2%.
-*  Leveraged university engineering innovation labs and collaborated with industry experts to drive
-technology transfer. Secured support from TikTok, Kwai Research Institute, and a $4 million national
-innovation grant. Achieved a top 10 placement in the Disrupt SF - Startup Battlefield competition.
 
 ### American Mathematical Contest in Modeling (MCM)        
 
