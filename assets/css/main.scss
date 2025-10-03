@@ -49,3 +49,16 @@
 //   border-radius: 50% !important;
 // }
 
+/* ==== custom overrides: author avatar (circle 180x180) ==== */
+.author__avatar { width: 180px !important; height: 180px !important; margin: 0 auto 10px; }
+.author__avatar:before { display: none !important; } /* 去掉白色外环 */
+.author__avatar img{
+  width: 180px !important;
+  height: 180px !important;
+  max-width: none !important;  /* 取消主题上限 */
+  object-fit: cover;
+  border-radius: 50% !important; /* 圆形 */
+}
+@media (max-width: 768px){
+  .author__avatar, .author__avatar img{ width: 140px !important; height: 140px !important; }
+}
