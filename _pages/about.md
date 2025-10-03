@@ -35,11 +35,11 @@ Education
   - *Introduction to Optimization (Accelerated)* 
   - *Accounting for Managers and Entrepreneurs* 
   - *Ethics in Global Technology Design*
-  - CS 229: Machine Learning
-  - CS 224N: Natural Language Processing with Deep Learning 
-  - CS 224U: Natural Language Understanding 
-  - CS 224C: NLP for Computational Social Science 
-  - CS 230: Deep Learning
+  - *CS 229: Machine Learning*
+  - *CS 224N: Natural Language Processing with Deep Learning*
+  - *CS 224U: Natural Language Understanding* 
+  - *CS 224C: NLP for Computational Social Science* 
+  - *CS 230: Deep Learning*
 
 
 - **In Progress (2025–2026 Autumn)**:  
