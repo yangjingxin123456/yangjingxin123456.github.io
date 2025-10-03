@@ -198,13 +198,13 @@ Feb.2021 - Jul.2021
 feedback compared to the previous period. 
 * Designed corresponding AB experiments, resulted in a 2% increase in retention rate, a 5% increase in interaction rate, a 7% increase in completion rate, a 5% increase in positive rate, and a 9% increase in average usage time for users in the experimental group of the recommendation page.
 
+### Simplify  
+Sept. 2024 – Present  
+* Planned rollout of a study-abroad application autofill feature: designed an end-to-end intelligent form-parsing pipeline (schema detection, field mapping, entity resolution) with a phased QA plan. Based on pilot simulations and offline evaluations, we expect **median completion time to drop ~40%**, **p95 completion time to drop ~30%**, and **top-1 autofill accuracy ≈ 88%**, covering **~55 major application portals** at launch.  
+* Led core feature development—intelligent parsing, real-time validation, and status tracking—**reducing form errors by 35%** and **duplicate entry by 50%**, increasing submission conversion by **+12 percentage points** and weekly active submitters by **28%** in A/B tests.  
+* Built an international growth stack across Instagram, Reddit, and Twitter/X (content cadence **~5 posts/week**, **CTR 3.8%**, **avg. session 4.2 min**), increasing site traffic by **30%** and MAU by **22%**, with localized content for **8 regions**.  
+* Designed referral & incentive programs (giveaways, share-to-unlock, streaks), **boosting engagement by 20%**, raising share rate to **6%** and K-factor to **0.8**, adding **+100,000 Instagram followers in two months** while lowering CAC by **18%**.  
 
-### Simplify
-Sept. 2024 – Present
-* Expanded Simplify’s functionality to include study-abroad application autofill by designing and launching an intelligent form parsing solution, improving user application efficiency by 40%.
-* Led core feature development, including intelligent form parsing, real-time error checking, and application status tracking, significantly reducing redundant data entry time across multiple platforms.
-* Constructed an international marketing ecosystem by integrating Instagram, Reddit, and Twitter resources, driving a 30% increase in traffic and attracting a global audience of international students and job seekers.
-* Designed incentive programs utilizing giveaways and user-sharing mechanisms, boosting engagement rates by 20% and growing Instagram followers by over 100,000 within two months.
 
 
 
