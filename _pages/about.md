@@ -117,7 +117,8 @@ Heilongjiang Province, China | Jan. 2022 – Present
 
 
 
-### Higher Education Mini-Program Development Competition, China Second Prize (top 3%) – Pet Recovery – AI-powered Rehabilitation Tool for Disabled Cats  
+### Higher Education Mini-Program Development Competition, China Second Prize (top 3%) 
+Pet Recovery – AI-powered Rehabilitation Tool for Disabled Cats  
 Project Manager  
 **Jan. 2022 – Jun. 2023**  
 
