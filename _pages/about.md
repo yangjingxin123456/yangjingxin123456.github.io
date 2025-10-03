@@ -23,15 +23,26 @@ I am Jingxin (Victoria) Yang, a second-year master’s student in [Management Sc
 
 Education
 ===
+
 ### **Stanford University**  
-*Master of Science in Management Science & Engineering* (Expected September 2026)  
+*Master of Science in Management Science & Engineering* (Expected June 2026)  
 **Stanford, CA, USA**  
+- **GPA**: 4.0 / 4.0  
 - **Coursework**:  
-  - Foundations of Decision Analysis (A+), Investment Science (A)  
-  - Natural Language Processing (NLP) for Computational Social Science  
-  - Natural Language Processing with Deep Learning  
-- **Research Assistant**: Computational Social Science (2024)  
-- **Teaching Assistant**: Stanford Women in Math Mentoring (2024)  
+  - *Investment Science* (A-)  
+  - *Foundations of Decision Analysis* (A)  
+  - *Applied Causal Inference with Machine Learning and AI* (A)  
+  - *Introduction to Optimization (Accelerated)* (A+)  
+  - *Accounting for Managers and Entrepreneurs* (A+)  
+  - *Ethics in Global Technology Design* (A-)  
+- **In Progress (2025–2026 Autumn)**:  
+  - *AI-Assisted Care (CS 337)*  
+  - *Probabilistic Analysis (MS&E 220)*  
+  - *Decentralized Finance & Blockchain: Innovation, Applications, and Entrepreneurship (MS&E 247)*  
+  - *Global Entrepreneurial Marketing (MS&E 271)*  
+- **Research Assistant**: [Computational Culture Lab (CCL)](https://www.comp-culture.org/) (2024)  
+- **Teaching Assistant**: [Stanford Women in Math Mentoring (SWIMM)](https://swimm.stanford.edu/) (2024)  
+
 
 
 
