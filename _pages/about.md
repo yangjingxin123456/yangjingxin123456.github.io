@@ -29,12 +29,12 @@ Education
 **Stanford, CA, USA**  
 - **GPA**: 4.0 / 4.0  
 - **Coursework**:  
-  - *Investment Science* (A-)  
-  - *Foundations of Decision Analysis* (A)  
-  - *Applied Causal Inference with Machine Learning and AI* (A)  
-  - *Introduction to Optimization (Accelerated)* (A+)  
-  - *Accounting for Managers and Entrepreneurs* (A+)  
-  - *Ethics in Global Technology Design* (A-)  
+  - *Investment Science* 
+  - *Foundations of Decision Analysis* 
+  - *Applied Causal Inference with Machine Learning and AI* 
+  - *Introduction to Optimization (Accelerated)* 
+  - *Accounting for Managers and Entrepreneurs* 
+  - *Ethics in Global Technology Design* 
 - **In Progress (2025–2026 Autumn)**:  
   - *AI-Assisted Care (CS 337)*  
   - *Probabilistic Analysis (MS&E 220)*  
