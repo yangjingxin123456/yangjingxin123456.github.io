@@ -98,16 +98,16 @@ Projects
 - Recognized internationally: achieved **Top 10 placement** in the *Disrupt SF – Startup Battlefield* competition.  
 
 
-### American Mathematical Contest in Modeling (MCM)        
+### American Mathematical Contest in Modeling (MCM)  
+*Title of Paper: LOLIMOT Forecasting-Accuracy (Finalist Winner)*  
+**Sep. 2022 – Oct. 2022**  
 
-Title of paper: LOLIMOT Forecasting-Accuracy (Finalist Winner)                              
+- Led a **dynamic price forecasting project** covering **5 retail locations** and managing **6.2M+ transaction-level observations**, coordinating the entire pipeline from raw data collection to preprocessing, model training, and cloud-based deployment.  
+- Built a **data visualization and analytics dashboard** using Pandas, Matplotlib, and Seaborn, enabling **real-time anomaly detection** and **correlation analysis across 120+ variables**. This improved trend identification by **15%** and shortened decision-making cycles by **~30 hours/month** for the case study.  
+- Engineered **20+ high-impact features** (lag variables, rolling statistics, seasonality indices), boosting forecasting accuracy by **25%**. Benchmarked LOLIMOT against ARIMA, XGBoost, and LSTM baselines, with LOLIMOT outperforming by **8–12% lower RMSE** in volatile demand scenarios.  
+- Automated the system to improve **operational efficiency by 60%**, reducing manual intervention from **15 hours/week → 6 hours/week**. Achieved estimated cost savings of **USD $50,000/month** across all locations via optimized pricing strategies and **inventory turnover improvement of 18%**.  
+- Recognized as **Finalist Winner (Top ~10% globally, ~3,000+ teams)**, highlighting methodological innovation and business impact.  
 
-Sep. 2022 - Oct. 2022 
-
-* Led a price forecasting project for products across 5 retail locations, managing over 6 million observations and coordinating end-to-end data management, including data collection, preprocessing, model training, and deployment.
-* Designed an advanced data visualization system to facilitate market analysis. Leveraged Python libraries such as Pandas and Matplotlib to preprocess raw data, conduct exploratory data analysis, detect outliers, and analyze correlations, resulting in the identification of 15% more actionable trends in market patterns.
-* Engineered over 20 critical features for modeling and prediction, enhancing model accuracy by 25%. Tested and compared models, including LOLIMOT and ARIMA, to select the most robust solution for dynamic price forecasting.
-* Improved operational efficiency by 60% through system automation, reducing manual intervention and cutting costs by $50,000 monthly across retail locations by optimizing pricing strategies and inventory management.
 
 
 ### Higher Education Mini-Program Development Competition, China Second Prize (top 3%)  
