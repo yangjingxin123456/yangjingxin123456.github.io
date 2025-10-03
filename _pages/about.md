@@ -83,7 +83,7 @@ Education
 - **Achievements**:  
   - Selected as one of the funded participants for HKU’s competitive summer research programme in computational social science.  
   - Led an interdisciplinary project employing natural language processing, network modeling, and causal inference to analyze large-scale corpora of legal documents, policy texts, and social media debates related to labor law and workers’ rights in China.  
-  - Designed a **text-mining pipeline** capable of extracting entities, sentiments, and relational structures, and combined it with social network analysis to uncover how legal reforms diffuse across online communities.  
+  - Designed a text-mining pipeline capable of extracting entities, sentiments, and relational structures, and combined it with social network analysis to uncover how legal reforms diffuse across online communities.  
   - Produced findings highlighting the role of digital discourse in shaping public perceptions of labor policy and the dynamics of collective action.  
   - Awarded a HK$10,000 research scholarship** for academic excellence and research potential.  
 
