@@ -94,26 +94,26 @@ Education
 
 Projects
 ===
-### **Agricultural Machinery Leasing and Optimization System**  
+### Agricultural Machinery Leasing and Optimization System
 *Chief Technology Officer*  
-**Heilongjiang Province, China | Jan. 2022 – Present**  
+Heilongjiang Province, China | Jan. 2022 – Present
 
-- Developed a **VR-based traffic flow prediction model**, improving machinery scheduling efficiency by 15% and reducing transportation time by 20%.  
-- Built a **Ridge Regression demand forecasting model**, raising prediction accuracy from 65% to 77.8% and reducing resource waste by 22.6%.  
-- Implemented an **optimized routing algorithm** with a Heads-Up Display interface, cutting empty mileage by 21.3% and lowering operating costs by 16.2%. The system attracted over **2 million users** in the first year, covering 35 rural areas and increasing agricultural information accessibility by 51.2%.  
-- Collaborated with **university innovation labs and industry partners** to accelerate technology transfer. Secured support from **TikTok**, **Kwai Research Institute**, and won a **$4 million national innovation grant**.  
-- Recognized internationally: achieved **Top 10 placement** in the *Disrupt SF – Startup Battlefield* competition.  
+- Developed a VR-based traffic flow prediction model, improving machinery scheduling efficiency by 15% and reducing transportation time by 20%.  
+- Built a Ridge Regression demand forecasting model, raising prediction accuracy from 65% to 77.8% and reducing resource waste by 22.6%.  
+- Implemented an optimized routing algorithm with a Heads-Up Display interface, cutting empty mileage by 21.3% and lowering operating costs by 16.2%. The system attracted over 2 million users in the first year, covering 35 rural areas and increasing agricultural information accessibility by 51.2%.  
+- Collaborated with university innovation labs and industry partners to accelerate technology transfer. Secured support from TikTok, Kwai Research Institute, and won a $4 million national innovation grant.  
+- Recognized internationally: achieved Top 10 placement in the *Disrupt SF – Startup Battlefield* competition.  
 
 
 ### American Mathematical Contest in Modeling (MCM)  
 *Title of Paper: LOLIMOT Forecasting-Accuracy (Finalist Winner)*  
 **Sep. 2022 – Oct. 2022**  
 
-- Led a **dynamic price forecasting project** covering **5 retail locations** and managing **6.2M+ transaction-level observations**, coordinating the entire pipeline from raw data collection to preprocessing, model training, and cloud-based deployment.  
-- Built a **data visualization and analytics dashboard** using Pandas, Matplotlib, and Seaborn, enabling **real-time anomaly detection** and **correlation analysis across 120+ variables**. This improved trend identification by **15%** and shortened decision-making cycles by **~30 hours/month** for the case study.  
-- Engineered **20+ high-impact features** (lag variables, rolling statistics, seasonality indices), boosting forecasting accuracy by **25%**. Benchmarked LOLIMOT against ARIMA, XGBoost, and LSTM baselines, with LOLIMOT outperforming by **8–12% lower RMSE** in volatile demand scenarios.  
-- Automated the system to improve **operational efficiency by 60%**, reducing manual intervention from **15 hours/week → 6 hours/week**. Achieved estimated cost savings of **USD $50,000/month** across all locations via optimized pricing strategies and **inventory turnover improvement of 18%**.  
-- Recognized as **Finalist Winner (Top ~10% globally, ~3,000+ teams)**, highlighting methodological innovation and business impact.  
+- Led a dynamic price forecasting project covering 5 retail locations and managing 6.2M+ transaction-level observations, coordinating the entire pipeline from raw data collection to preprocessing, model training, and cloud-based deployment.  
+- Built a data visualization and analytics dashboard using Pandas, Matplotlib, and Seaborn, enabling real-time anomaly detection and correlation analysis across 120+ variables. This improved trend identification by 15% and shortened decision-making cycles by ~30 hours/month for the case study.  
+- Engineered 20+ high-impact features (lag variables, rolling statistics, seasonality indices), boosting forecasting accuracy by 25%. Benchmarked LOLIMOT against ARIMA, XGBoost, and LSTM baselines, with LOLIMOT outperforming by 8–12% lower RMSE in volatile demand scenarios.  
+- Automated the system to improve operational efficiency by 60%, reducing manual intervention from 15 hours/week → 6 hours/week. Achieved estimated cost savings of USD $50,000/month across all locations via optimized pricing strategies and inventory turnover improvement of 18%.  
+- Recognized as Finalist Winner (Top ~10% globally, ~3,000+ teams), highlighting methodological innovation and business impact.  
 
 
 
@@ -124,11 +124,11 @@ Projects
 Project Manager  
 **Jan. 2022 – Jun. 2023**  
 
-- Designed and launched **“Pet Recovery”**, an AI-based rehabilitation assistant for disabled cats, integrating **computer vision and motion-tracking algorithms** to monitor recovery progress and generate personalized training plans.  
-- Built an **edge AI model** that detects gait abnormalities with **92% precision** and recommends adaptive rehabilitation exercises, reducing average recovery time by **30%** compared to baseline veterinary protocols.  
-- Scaled the platform to **1M+ active users** within 18 months, with adoption across **20+ veterinary clinics** and animal welfare NGOs in Asia.  
-- Implemented community features (progress dashboards, pet-owner sharing forums), boosting **daily active user retention by 25%** and creating one of the largest online communities for animal rehabilitation.  
-- Awarded **Second Prize (Top 3%) in the Higher Education Mini-Program Development Competition, China**, recognized as an innovative AI-for-good project.  
+- Designed and launched “Pet Recovery”, an AI-based rehabilitation assistant for disabled cats, integrating computer vision and motion-tracking algorithms to monitor recovery progress and generate personalized training plans.  
+- Built an edge AI model that detects gait abnormalities with 92% precision and recommends adaptive rehabilitation exercises, reducing average recovery time by 30% compared to baseline veterinary protocols.  
+- Scaled the platform to 1M+ active users within 18 months, with adoption across 20+ veterinary clinics and animal welfare NGOs in Asia.  
+- Implemented community features (progress dashboards, pet-owner sharing forums), boosting daily active user retention by 25% and creating one of the largest online communities for animal rehabilitation.  
+- Awarded Second Prize (Top 3%) in the Higher Education Mini-Program Development Competition, China, recognized as an innovative AI-for-good project.  
 
 
 
