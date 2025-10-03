@@ -40,7 +40,7 @@ Education
   - *Probabilistic Analysis (MS&E 220)*  
   - *Decentralized Finance & Blockchain: Innovation, Applications, and Entrepreneurship (MS&E 247)*  
   - *Global Entrepreneurial Marketing (MS&E 271)*  
-- **Research Assistant**: [Computational Culture Lab (CCL)](https://www.comp-culture.org/) (2024)  
+- **Research Assistant**: [Computational Culture Lab (CCL)](https://www.comp-culture.org/) (2025)  
 - **Teaching Assistant**: [Stanford Women in Math Mentoring (SWIMM)](https://swimm.stanford.edu/) (2024)  
 
 
