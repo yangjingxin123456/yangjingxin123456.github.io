@@ -17,7 +17,8 @@ Current
 Short Bio
 ===
 
-I am Jingxin（Victoria）Yang, a first-year master's student in Management Science and Engineering at [Stanford University](https://msande.stanford.edu/). In July 2024, I graduated as an outstanding student from [SCAU](https://www.scau.edu.cn/), where I majored in Computer Science and Technology. 
+I am Jingxin (Victoria) Yang, a second-year master’s student in [Management Science and Engineering](https://msande.stanford.edu/) at [Stanford University](https://www.stanford.edu/). In July 2024, I graduated as an outstanding student from [South China Agricultural University (SCAU)](https://www.scau.edu.cn/) in Guangzhou, Guangdong, where I majored in Computer Science and Technology.
+
 
 
 Education
