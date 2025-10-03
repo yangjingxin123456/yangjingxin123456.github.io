@@ -1,4 +1,4 @@
-  main:
+main:
   - title: "Resume"
     url: /cv/
   - title: "Research"
@@ -11,5 +11,5 @@
     url: /photos/
   - title: "About Me"
     url: /about/
-    - title: "Contact" 
-    url: /Contact/
+  - title: "Contact"
+    url: /contact/
