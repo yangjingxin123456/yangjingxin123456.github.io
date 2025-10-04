@@ -20,8 +20,11 @@ _Last updated: **2025-10-03**._
 
 ---
 
+
 ### 2) Gender Differences in Corruption Cases in China: An Analysis Based on Deep Learning  
-**J.X. Yang**, R.P. Fu. Presented at the *International Communication Association* (ICA), 2023.
+**J.X. Yang**, R.P. Fu. Presented at the *International Communication Association* (ICA), 2023.  
+<a class="btn btn--primary" href="/files/ICA_2023_Gender_Differences_Corruption_Yang.pdf" target="_blank" rel="noopener">Download PDF</a>
+
 
 ---
 
