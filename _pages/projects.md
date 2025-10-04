@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
 # Projects  
 
 ## 1. AI + Metaverse Value Creator  
