@@ -5,7 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Projects  
 
 ## 1. AI + Metaverse Value Creator  
 *Summer Research Program at HKU*  
