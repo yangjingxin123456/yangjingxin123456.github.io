@@ -35,9 +35,4 @@ R.P. Fu, **J.X. Yang**. *Journal of European Intellectual Property Review* (JIPE
 **J.X. Yang**, et al. Presented at the *International Conference on Scientific Computation and Applied Statistics*, 2022.  
 <a class="btn" href="https://iopscience.iop.org/article/10.1088/1742-6596/2425/1/012064" target="_blank" rel="noopener">Publisher</a>
 
----
 
-## All entries (from `_publications/`)
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
